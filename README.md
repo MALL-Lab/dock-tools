@@ -1,10 +1,12 @@
 # Dock-tools
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15064459.svg)](https://doi.org/10.5281/zenodo.15064459)
-![GitHub release](https://img.shields.io/github/v/release/MALL-Machine-Learning-in-Live-Sciences/dock-tools?label=release)
+[![GitHub release](https://img.shields.io/github/v/release/MALL-Lab/dock-tools?label=release)](https://github.com/MALL-Lab/dock-tools/releases)
+![GitHub contributors](https://img.shields.io/github/contributors/MALL-Lab/dock-tools)
+![GitHub last commit](https://img.shields.io/github/last-commit/MALL-Lab/dock-tools)
+![License](https://img.shields.io/github/license/MALL-Lab/dock-tools)
 ![Maintenance](https://img.shields.io/badge/Maintenance-Actively%20Maintained-brightgreen)
-![GitHub contributors](https://img.shields.io/github/contributors/MALL-Machine-Learning-in-Live-Sciences/dock-tools)
-![GitHub last commit](https://img.shields.io/github/last-commit/MALL-Machine-Learning-in-Live-Sciences/dock-tools)
+[![MALL Lab](https://img.shields.io/badge/MALL-Lab-233452)](https://mall-lab.github.io/)
 
 # Building the Dock-Tools Image Locally
 
